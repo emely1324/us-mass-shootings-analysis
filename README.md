@@ -7,8 +7,7 @@ Using historical and recent datasets, we analyze trends, demographic factors, an
 The project aims to increase awareness and provide evidence-based visual insights into one of the most pressing social issues in the U.S.  
 
 ## 📂 Repository Contents  
-- **Gun_Violence_Mass_Shootings_USA.twbx** – Tableau workbook with all interactive dashboards and analyses  
-- **Data.csv** – Cleaned dataset used for the Tableau project  
+- **Gun_Violence_Mass_Shootings_USA.twbx** – Tableau workbook with all interactive dashboards and analyses   
 - **Understanding the Scale of Gun Violence in the USA.pdf** – Written report summarizing methodology, hypotheses, and findings  
 
 ## 📊 Key Visualizations  
